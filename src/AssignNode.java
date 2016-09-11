@@ -3,7 +3,6 @@
  * @author LC
  *
  */
-
 public class AssignNode extends BinaryNode {
 
 	public AssignNode(Node left, Node right) {
